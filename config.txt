@@ -1,0 +1,38 @@
+{
+    "terminal.integrated.shell.osx": "/bin/zsh",
+    "workbench.sideBar.location": "left",
+    "editor.minimap.enabled": false,
+    "workbench.statusBar.visible": true,
+    "editor.tabSize": 2,
+    "editor.renderWhitespace": "all",
+    "editor.fontLigatures": true,
+    "editor.fontSize": 13,
+    "editor.lineHeight": 22,
+    "editor.lineNumbers": "on",
+    "editor.renderIndentGuides": false,
+    "editor.rulers": [120],
+    "workbench.colorTheme": "One Dark Pro",
+    "workbench.iconTheme": "vscode-great-icons",
+    "editor.fontFamily": "Fira Code",
+    "editor.quickSuggestions": {
+        "other": true,
+        "comments": true,
+        "strings": true
+    },
+    "vim.hlsearch": true,
+    "vim.substituteGlobalFlag": true,
+    "window.zoomLevel": 0,
+    "diffEditor.ignoreTrimWhitespace": true,
+    "[git-commit]": {
+        "editor.rulers": [
+            120
+        ]
+    },
+    "zenMode.centerLayout": false,
+    "vim.cmdLineInitialColon": true,
+    "vim.easymotion": true,
+    "vim.easymotionMarkerFontSize": "10",
+    "vim.easymotionMarkerHeight": 0,
+    "vim.easymotionMarkerYOffset": 10,
+    "vim.easymotionMarkerForegroundColorTwoChar": "#bbb"
+}
